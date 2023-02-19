@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cloud_config/static/css/main.93a0497a.css",
+    "main.js": "/Cloud_config/static/js/main.c6e10bc4.js",
+    "index.html": "/Cloud_config/index.html",
+    "main.93a0497a.css.map": "/Cloud_config/static/css/main.93a0497a.css.map",
+    "main.c6e10bc4.js.map": "/Cloud_config/static/js/main.c6e10bc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.c6e10bc4.js"
+  ]
+}
